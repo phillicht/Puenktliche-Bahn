@@ -1,2 +1,2 @@
 # Puenktliche-Bahn
-Gruppenarbeit Mechatronik Trinational Descartes Daniel Ott, André Fuchs, Patrick Laemmle, Philipppe Licht
+Gruppenarbeit Mechatronik Trinational Descartes Daniel Ott, André Fuchs, Patrick Laemmle, Philippe Licht
